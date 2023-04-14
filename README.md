@@ -2,4 +2,4 @@
 
 Your friendly ~~donkey~~ dictionary bot 🫏
 
-➡️ Made for Revolt!
+➡️ Made for (Revolt)[https://revolt.chat]!
